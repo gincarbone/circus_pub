@@ -1,1 +1,4 @@
-[{"name": "azzurra", "host": "irc.azzurra.org", "port": 6697, "nickname": "redi", "channels": []}, {"name": "simosnap.net", "host": "IRC.simosnap.net", "port": 6697, "nickname": "guest666", "channels": []}
+[
+  {"name": "azzurra", "host": "irc.azzurra.org", "port": 6697, "nickname": "redi", "channels": []}, 
+  {"name": "simosnap.net", "host": "IRC.simosnap.net", "port": 6697, "nickname": "guest666", "channels": []}
+]
