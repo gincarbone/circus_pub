@@ -4,7 +4,7 @@ cIRCus è un client IRC moderno e leggero per Android, progettato per fornire un
 
 ## Caratteristiche
 
-- **Interfaccia Utente Moderna**: La migliore interfaccia utente per un client IRC su discpositivi mobili.
+- **Interfaccia Utente Moderna**: La migliore interfaccia client IRC su discpositivi mobili.
 - **Supporto per i file multimediali**: Circus permette di visualizzare ed ascoltare file multimediali come JPG, GIF, PNG, MP3 e molti altri.
 - **Notifiche in Tempo Reale**: Rimani sempre aggiornato con notifiche push personalizzabili.
 - **Supporto per i Temi**: Scegli tra tema chiaro e scuro per un'esperienza visiva ottimale.
