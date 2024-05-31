@@ -10,13 +10,16 @@ cIRCus è un client IRC moderno e leggero per Android, progettato per fornire un
 - **Supporto per i Temi**: Scegli tra tema chiaro e scuro per un'esperienza visiva ottimale.
 
 ## Anteprima
-
+<p>
 <img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="400">
 <img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="400">
 <img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="400">
+   </p>
+   <p>
 <img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="400">
 <img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="400">
 <img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="400">
+      </p>
 ## Come Iniziare
 
 Circus è in versione beta. Per utilizzare Circus sul tuo dispositivo Android, seguendo questi passi:
