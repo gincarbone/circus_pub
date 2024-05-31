@@ -1,22 +1,23 @@
 # cIRCus IRC Client
 
 cIRCus is a modern, lightweight IRC client for Android, designed to provide simple and effective communication for online communities and teams.
-___
+
 cIRCus è un client IRC moderno e leggero per Android, progettato per fornire una comunicazione semplice e efficace per le comunità e i team online.
 
-## Characteristics - Caratteristiche
+## Characteristics
 
 - **Modern UI**: The best IRC client interface on mobile devices.
 - **Support for multimedia files**: Circus allows you to view and listen to multimedia files such as JPG, GIF, PNG, MP3 and many others.
 - **Real Time Notifications**: Always stay up to date with customizable push notifications.
 - **Theme Support**: Choose between light and dark themes for an optimal viewing experience.
-___
+  
+## Caratteristiche
 - **Interfaccia Utente Moderna**: La migliore interfaccia client IRC su discpositivi mobili.
 - **Supporto per i file multimediali**: Circus permette di visualizzare ed ascoltare file multimediali come JPG, GIF, PNG, MP3 e molti altri.
 - **Notifiche in Tempo Reale**: Rimani sempre aggiornato con notifiche push personalizzabili.
 - **Supporto per i Temi**: Scegli tra tema chiaro e scuro per un'esperienza visiva ottimale.
 
-## Preview - Anteprima
+## Preview 
 <p>
 <img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-161702.png?raw=true" width="300">
 <img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="300">
@@ -28,7 +29,7 @@ ___
 <img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="300">
 </p>
 
-## Come Iniziare
+## How to start
 
 Circus is in beta. To use Circus on your Android device, following these steps:
 - **Download the .apk file on your Android smartphone**: [https://github.com/gincarbone/circus_pub/blob/main/app-release.apk](https://github.com/gincarbone/circus_pub /raw/main/app-release.apk)
@@ -45,8 +46,7 @@ Steps to Enable Unknown Sources
 - **Follow the on-screen instructions to complete the installation**
 - **Finished!** you can start browsing with your brand new IRC client
 
-___
-
+## Come Iniziare
 
 Circus è in versione beta. Per utilizzare Circus sul tuo dispositivo Android, seguendo questi passi:
 - **Scarica sul tuo smartfone Android il file .apk**: [https://github.com/gincarbone/circus_pub/blob/main/app-release.apk](https://github.com/gincarbone/circus_pub/raw/main/app-release.apk)
