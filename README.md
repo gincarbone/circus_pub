@@ -11,16 +11,12 @@ cIRCus è un client IRC moderno e leggero per Android, progettato per fornire un
 
 ## Anteprima
 
-<img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="600">
-
-![Example Image]([example.png](https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png)) 
-![alt text]([URL](https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png))
-
-![alt text](Screenshot_20240530-154355.png)
-
-![alt text](Screenshot_20240530-154355.png)
-
-
+<img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="400">
+<img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="400">
+<img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="400">
+<img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="400">
+<img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="400">
+<img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="400">
 ## Come Iniziare
 
 Circus è in versione beta. Per utilizzare Circus sul tuo dispositivo Android, seguendo questi passi:
