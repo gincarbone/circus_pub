@@ -1,7 +1,7 @@
 # cIRCus IRC Client
 
 cIRCus is a modern, lightweight IRC client for Android, designed to provide simple and effective communication for online communities and teams.
-
+___
 cIRCus è un client IRC moderno e leggero per Android, progettato per fornire una comunicazione semplice e efficace per le comunità e i team online.
 
 ## Characteristics - Caratteristiche
@@ -10,7 +10,7 @@ cIRCus è un client IRC moderno e leggero per Android, progettato per fornire un
 - **Support for multimedia files**: Circus allows you to view and listen to multimedia files such as JPG, GIF, PNG, MP3 and many others.
 - **Real Time Notifications**: Always stay up to date with customizable push notifications.
 - **Theme Support**: Choose between light and dark themes for an optimal viewing experience.
-- 
+___
 - **Interfaccia Utente Moderna**: La migliore interfaccia client IRC su discpositivi mobili.
 - **Supporto per i file multimediali**: Circus permette di visualizzare ed ascoltare file multimediali come JPG, GIF, PNG, MP3 e molti altri.
 - **Notifiche in Tempo Reale**: Rimani sempre aggiornato con notifiche push personalizzabili.
@@ -45,7 +45,9 @@ Steps to Enable Unknown Sources
 - **Follow the on-screen instructions to complete the installation**
 - **Finished!** you can start browsing with your brand new IRC client
 
-  
+___
+
+
 Circus è in versione beta. Per utilizzare Circus sul tuo dispositivo Android, seguendo questi passi:
 - **Scarica sul tuo smartfone Android il file .apk**: [https://github.com/gincarbone/circus_pub/blob/main/app-release.apk](https://github.com/gincarbone/circus_pub/raw/main/app-release.apk)
 - **Abilita le Origini Sconosciute**: Prima di installare l'APK, devi abilitare la possibilità di installare app che non provengono da Google Play.
