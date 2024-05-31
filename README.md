@@ -38,7 +38,7 @@ cIRCus è un client IRC moderno e leggero per Android, progettato per fornire un
 ## How to start
 
 Circus is in beta. To use Circus on your Android device, following these steps:
-- **Download the .apk file on your Android smartphone**: [https://github.com/gincarbone/circus_pub/blob/main/app-release.apk](https://github.com/gincarbone/circus_pub /raw/main/app-release.apk)
+- **Download the .apk file on your Android smartphone**: [https://github.com/gincarbone/circus_pub/blob/main/app-release.apk](https://github.com/gincarbone/circus_pub/raw/main/app-release.apk)
 - **Enable Unknown Sources**: Before installing the APK, you must enable the ability to install apps that do not come from Google Play.
 Steps to Enable Unknown Sources
  1. Go to Settings on your Android device.
