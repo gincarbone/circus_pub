@@ -11,14 +11,14 @@ cIRCus è un client IRC moderno e leggero per Android, progettato per fornire un
 
 ## Anteprima
 <p>
-<img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="400">
-<img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="400">
-<img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="400">
+<img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="300">
+<img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="300">
+<img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="300">
    </p>
    <p>
-<img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="400">
-<img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="400">
-<img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="400">
+<img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="300">
+<img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="300">
+<img src="https://github.com/gincarbone/circus_pub/blob/main/Screenshot_20240530-154355.png?raw=true" width="300">
       </p>
 ## Come Iniziare
 
