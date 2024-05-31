@@ -4,12 +4,10 @@ cIRCus is a modern, lightweight IRC client for Android, designed to provide simp
 
 cIRCus è un client IRC moderno e leggero per Android, progettato per fornire una comunicazione semplice e efficace per le comunità e i team online.
 
-<center><h2> DOWNLOAD </h2></center>
 <div align="center">
+ <h2> DOWNLOAD </h2>
  <img src="https://github.com/gincarbone/circus_pub/blob/main/download.png?raw=true" width="200">
 </div>
-
-<center><img src="https://github.com/gincarbone/circus_pub/blob/main/download.png?raw=true" width="200"></center>
 
 ## Characteristics
 
