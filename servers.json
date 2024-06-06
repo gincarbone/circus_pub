@@ -2,5 +2,5 @@
   {"name": "cyber-galaxy", "host": "irc.cyber-galaxy.net", "port": 6697, "nickname": "circusGuest666", "channels": []},
   {"name": "azzurra", "host": "irc.azzurra.org", "port": 6697, "nickname": "circusGuest666", "channels": []}, 
   {"name": "simosnap", "host": "irc.simosnap.net", "port": 6697, "nickname": "circusGuest666", "channels": []},
-  {"name": "quakenet", "host": "irc.quakenet.org", "port": 6697, "nickname": "circusGuest666", "channels": []}
+  {"name": "quakenet", "host": "irc.quakenet.org", "port": 6667, "nickname": "circusGuest666", "channels": []}
 ]
