@@ -2,7 +2,7 @@
   {"name": "SimoSnap", "host": "irc.simosnap.net", "port": 6697, "nickname": "circusGuest666", "channels": []},
   {"name": "Libera", "host": "irc.libera.chat", "port": 6667, "nickname": "circusGuest666", "channels": []},
   {"name": "OFTC", "host": "irc.oftc.net", "port": 6667, "nickname": "circusGuest666", "channels": []},
-  {"name": "Azzurra", "host": "irc.azzurra.org", "port": 6697, "nickname": "circusGuest666", "channels": []}, 
+  {"name": "Azzurra", "host": "irc.azzurra.org", "port": 6667, "nickname": "circusGuest666", "channels": []}, 
   {"name": "quakenet", "host": "irc.quakenet.org", "port": 6667, "nickname": "circusGuest666", "channels": []},
   {"name": "Undernet", "host": "irc.undernet.org", "port": 6669, "nickname": "circusGuest666", "channels": []},
   {"name": "Cyber-Galaxy", "host": "irc.cyber-galaxy.net", "port": 6697, "nickname": "circusGuest666", "channels": []},
