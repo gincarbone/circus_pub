@@ -1,4 +1,4 @@
 [
   {"name": "Azzurra", "host": "irc.azzurra.org", "port": 6667, "nickname": "circusGuest666", "channels": []},
-  {"name": "SimoSnap", "host": "irc.simosnap.net", "port": 6697, "nickname": "circusGuest666", "channels": []}
+  {"name": "SimoSnap", "host": "lab.simosnap.com", "port": 6697, "nickname": "circusGuest666", "channels": []}
 ]
